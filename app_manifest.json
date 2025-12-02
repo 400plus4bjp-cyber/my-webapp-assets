@@ -1,1 +1,21 @@
-
+{
+"name": "Citizens Master App",
+"short_name": "Home App",
+"description": "The collaborative app for collecting Citizens' details.",
+"start_url": "./",
+"display": "standalone",
+"background_color": "#0f172a",
+"theme_color": "#38bdf8",
+"icons": [
+{
+"src": "https://www.google.com/search?q=https://yourusername.github.io/my-webapp-assets/pwa/app-icon-192.png",
+"sizes": "192x192",
+"type": "image/png"
+},
+{
+"src": "https://www.google.com/search?q=https://yourusername.github.io/my-webapp-assets/pwa/app-icon-512.png",
+"sizes": "512x512",
+"type": "image/png"
+}
+]
+}
